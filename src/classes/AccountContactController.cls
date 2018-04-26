@@ -2,7 +2,7 @@ public class AccountContactController {
    public Account acc{get;set;}  
    public Contact con{get;set;}  
    public AccountContactController()  
-   {  //validate cjh ss ss dd
+   {  //validate cjh ss ss dd chnaged
      acc = new Account();  
      con = new Contact();  
    }  
